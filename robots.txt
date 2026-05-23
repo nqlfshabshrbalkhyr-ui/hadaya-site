@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hadaya-kuwait.vercel.app/sitemap.xml
